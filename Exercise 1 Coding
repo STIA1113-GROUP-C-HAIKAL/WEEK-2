@@ -1,0 +1,27 @@
+package addMinus;
+
+public class Exercise1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// Morning 
+		System.out.println("05:15 - I wake up from my bed and do Shubuh Prayer");
+		System.out.println("07:00 - I make breakfast and brew myself a coffee");
+		System.out.println("07:15 - I take a shower after finishing all my meal");
+		System.out.println("07:30 - I start getting into online classes ");
+		// Evening 
+		System.out.println("12:00 - Zuhur Prayers");
+		System.out.println("15:00 - I start searching for lunch outside");
+		System.out.println("15:30 - Another shower and a powernap session");
+		System.out.println("16:00 - After shower I'd go and do any assignments if there are one");
+		System.out.println("16:30 - A slight Ashar Prayer");
+		System.out.println("16:35 - Back to finishing assignments");
+		// Nighttime
+		System.out.println("18:00 - Maghrib Prayer");
+		System.out.println("19:00 - Leisure time");
+		System.out.println("20:30 - Isha Prayer");
+		System.out.println("21:00 - I start learning and digging more about programming");
+		System.out.println("00:00 - I go and rest");
+	}
+
+}
